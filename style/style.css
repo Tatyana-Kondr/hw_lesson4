@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+.page {
+    background-color: rgb(126, 199, 174);
+    height: 800px;
+    width: 1000px;
+    padding: 100px;
+}
+.main .images img{
+    border-radius: 300px;
+    height: 150px;
+}
+
+.main{
+    padding: 60px 30px; 
+    background-color: #31a483;
+    border: 2px solid #235345;
+    border-radius: 20px;
+    width: 800px;
+}
+
+.main h1{
+    margin: 30px 0;
+    color: #122620;
+}
+.main h3{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #122620;
+}
+.main .links a{
+    padding: 3px 20px;
+    margin-right: 10px;
+    border: 1px solid #235345;
+    background-color: #306c5a;
+    border-radius: 10px;
+    color: #8ab2a5;
+    font-style: normal;
+}
+
